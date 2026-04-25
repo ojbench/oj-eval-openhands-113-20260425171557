@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.d
+*.obj
+*.dll
+*.pdb
+*.mod
+*.lo
+*.la
+*.class
+
+# Test binaries
+main_test
